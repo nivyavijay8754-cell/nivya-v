@@ -1,0 +1,2 @@
+# nivya-v
+EduGenie_google_gemini_powered_learning_assistant
